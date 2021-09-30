@@ -119,17 +119,16 @@
                         <ComboBox fx:id="selectSubcategoryComboBox" onMouseClicked="#handleSubcategorySelectionAction" prefHeight="31.0" prefWidth="181.0" promptText="Select subcategory" style="-fx-background-color: #E0E0E0;" styleClass="choice-box" stylesheets="@../css/comboBoxStyle.css" />
                         <ComboBox fx:id="selectTypeComboBox" prefHeight="31.0" prefWidth="136.0" promptText="Select type" style="-fx-background-color: #E0E0E0;" styleClass="choice-box" stylesheets="@../comboBoxStyle.css" />
                         <ComboBox fx:id="selectUserComboBox" prefHeight="31.0" prefWidth="144.0" promptText="Select user" style="-fx-background-color: #E0E0E0;" styleClass="choice-box" stylesheets="@../comboBoxStyle.css" />
-                        <Button fx:id="searchButton" mnemonicParsing="false" onMouseClicked="#handleSearchButtonAction" prefHeight="36.0" prefWidth="98.0" style="-fx-border-color: white; -fx-border-radius: 20px; -fx-background-radius: 20px; -fx-border-width: 1.5px; -fx-text-fill: white;" styleClass="button-leftpane" stylesheets="@../style.css" text="Search">
+                        <Button fx:id="searchButton" mnemonicParsing="false" onMouseClicked="#handleSearchButtonAction" prefHeight="36.0" prefWidth="98.0" style="-fx-border-color: white; -fx-border-radius: 20px; -fx-background-radius: 20px; -fx-border-width: 1.5px; -fx-text-fill: white;" styleClass="button-leftpane" stylesheets="@../css/style.css" text="Search">
                            <font>
                               <Font name="System Bold" size="14.0" />
                            </font>
 
                         </Button>
-                        <Button fx:id="Reset" mnemonicParsing="false" onMouseClicked="#handleResetButtonAction" prefHeight="36.0" prefWidth="92.0" style="-fx-border-color: white; -fx-border-radius: 20px; -fx-background-radius: 20px; -fx-border-width: 1.5px; -fx-text-fill: white;" styleClass="button-leftpane" stylesheets="@../style.css" text="Reset">
+                        <Button fx:id="Reset" mnemonicParsing="false" onMouseClicked="#handleResetButtonAction" prefHeight="36.0" prefWidth="92.0" style="-fx-border-color: white; -fx-border-radius: 20px; -fx-background-radius: 20px; -fx-border-width: 1.5px; -fx-text-fill: white;" styleClass="button-leftpane" stylesheets="@../css/style.css" text="Reset">
                            <font>
                               <Font name="System Bold" size="14.0" />
                            </font>
-
                         </Button>
                      </children>
                      <padding>

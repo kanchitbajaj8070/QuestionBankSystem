@@ -195,7 +195,7 @@ public class papersController implements Initializable {
 			return;
 		}
 
-		File file = new File("resources/pdfs/" + (rowToView.getPaperId()) + ".pdf");
+		File file = new File("src/main/resources/pdfs/" + (rowToView.getPaperId()) + ".pdf");
 		if (!Desktop.isDesktopSupported()) {
 			System.out.println("Desktop is not supported");
 			return;
