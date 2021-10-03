@@ -4,7 +4,6 @@
 <?import com.jfoenix.controls.JFXDatePicker?>
 <?import com.jfoenix.controls.JFXSpinner?>
 <?import com.jfoenix.controls.JFXTextField?>
-<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.ComboBox?>
 <?import javafx.scene.control.ContextMenu?>
@@ -82,9 +81,6 @@
                            </children>
                         </VBox>
                         <JFXButton fx:id="addButton" alignment="CENTER" buttonType="RAISED" onMouseClicked="#handleAddButtonAction" prefHeight="70.0" prefWidth="70.0" ripplerFill="WHITE" style="-fx-background-radius: 50%; -fx-border-color: white; -fx-border-radius: 50%; -fx-border-width: 3px; -fx-background-color: linear-gradient(to top left, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);" styleClass="button-leftpane" stylesheets="@../css/style.css" text="Add" textFill="WHITE">
-                           <graphic>
-                              <FontAwesomeIconView fill="WHITE" glyphName="PLUS" wrappingWidth="10.428571701049805" />
-                           </graphic>
                            <tooltip>
                               <Tooltip text="click here to add sections and number of questions" />
                            </tooltip>

@@ -494,7 +494,7 @@ alertMaker.showErrorMessage("error loading category List","");
 		f1.setStyle(Font.BOLD);
 		f1.setSize(14);
 		com.itextpdf.text.Document document = new com.itextpdf.text.Document();
-		File fileSelected = new File("resources/pdfs/" + (handler.getInstance().prevPID() + 1) + ".pdf");
+		File fileSelected = new File("src/main/resources/pdfs/" + (handler.getInstance().prevPID() + 1) + ".pdf");
 		try {
 			if (fileSelected.createNewFile() == false) {
 				alertMaker.showErrorMessage("error", "not able to make file");
@@ -623,7 +623,7 @@ alertMaker.showErrorMessage("error loading category List","");
 		f1.setStyle(Font.BOLD);
 		f1.setSize(14);
 		com.itextpdf.text.Document document = new com.itextpdf.text.Document();
-		File fileSelected = new File("resources/pdfs/" + (handler.getInstance().prevPID() + 1) + "answerkey.pdf");
+		File fileSelected = new File("src/main/resources/pdfs/" + (handler.getInstance().prevPID() + 1) + "answerkey.pdf");
 		try {
 			if (fileSelected.createNewFile() == false) {
 				Platform.runLater(()->	alertMaker.showErrorMessage("error", "not able to make answer key  file"));

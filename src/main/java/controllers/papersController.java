@@ -113,7 +113,7 @@ public class papersController implements Initializable {
 		else {
 			path = path + ".pdf";
 		}
-		File file = new File("resources/pdfs/" + (rowToView.getPaperId()) + "answerkey.pdf");
+		File file = new File("src/main/resources/pdfs/" + (rowToView.getPaperId()) + "answerkey.pdf");
 		try {
 			FileUtils.copyFile(file, new File(path));
 			alertMaker.showInfoMessage("Success", "Succesfully downloaded your answer key  file", "");
