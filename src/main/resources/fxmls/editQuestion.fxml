@@ -4,7 +4,6 @@
 <?import com.jfoenix.controls.JFXComboBox?>
 <?import com.jfoenix.controls.JFXTextArea?>
 <?import com.jfoenix.controls.JFXTextField?>
-<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.Cursor?>
 <?import javafx.scene.control.ComboBox?>
@@ -301,9 +300,6 @@
                      <font>
                         <Font name="System Bold" size="12.0" />
                      </font>
-                     <graphic>
-                        <FontAwesomeIconView fill="WHITE" fontSmoothingType="LCD" glyphName="SAVE" size="16" />
-                     </graphic>
                   </JFXButton>
                   <Label alignment="CENTER" layoutX="12.0" layoutY="6.0" prefHeight="27.0" prefWidth="989.0" text="Questions Manager" textFill="WHITE">
                      <font>
