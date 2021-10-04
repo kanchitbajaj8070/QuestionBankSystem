@@ -63,7 +63,7 @@ _**LOGIN PAGE**_
 ![search](./screenshots/search.png)
 
 **PDF OF PAPER GENERTAED**
-![Pdf of paper generated ](./screenshots/pdfOfPaper.png)
+![Pdf of paper generated ](https://github.com/kanchitbajaj8070/QuestionBankSystem/screenshots/pdfOfPaper.png)
 
 
 
