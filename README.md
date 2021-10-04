@@ -5,33 +5,36 @@ This is a challenging era due to the growth in the field of computer science and
 
 **Features**
 
--Users can add,delete ,edit objective,true/false and subjective question.
+- Users can add,delete ,edit objective,true/false and subjective question.
 
--Image based questions can also be added
+- Image based questions can also be added
 
--Users can signup and start storing questions
+- Users can signup and start storing questions
 
--Admin can set roles for new users
+- Admin can set roles for new users
 
--Paper are generated according to difficulty and category of question selected by users
+- Paper are generated according to difficulty and category of question selected by users
 
--Questions are randomized 
+- Questions are randomized 
 
 - Answer Keys are Also generated to avoid potential inconsistencies.
 
 **Tech Stack**
 
--JAVAFX
+- JAVAFX
 
--MAVEN
+- MAVEN
 
--ORACLE
+- ORACLE
 
--JAVA
+- JAVA
 
--FONTAWESOME
+- FONTAWESOME
 
--SCENE BUILDER
+- SCENE BUILDER
+
+- JDBC 
+- JAVA CONCURRENCY
 
 **_SCREENSHOTS_**
 
