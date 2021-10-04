@@ -54,7 +54,7 @@ _**LOGIN PAGE**_
 ![Papers Manager page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/PapersManager.PNG)
 
 **Users Manager**
-![Users Manager page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/UsersManager.PNG)
+![Users Manager page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/usersManager.PNG)
 
 **Generate Paper Tab** 
 ![Generate Paper Tab page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/generatePaperTab.PNG)
