@@ -37,30 +37,30 @@ This is a challenging era due to the growth in the field of computer science and
 
 _**LOGIN PAGE**_
 
-![login page](./screenshots/login.png)
+![login page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/login.PNG)
 
 **DASHBOARD**
 
-![Dashboard page](./screenshots/dashboard.png)
+![Dashboard page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/dashboard.PNG)
 
 **ADD QUESTION**
 
-![Add Quesion page](./screenshots/addQuestion.png)
+![Add Quesion page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/addQuestion.PNG)
 
 **Category Manager**
-![category Manager page](./screenshots/CategoryManager.png)
+![category Manager page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/CategoryManager.PNG)
 
 **Papers Manager**
-![Papers Manager page](./screenshots/PapersManager.png)
+![Papers Manager page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/PapersManager.PNG)
 
 **Users Manager**
-![Users Manager page](./screenshots/UsersManager.png)
+![Users Manager page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/UsersManager.PNG)
 
 **Generate Paper Tab** 
-![Generate Paper Tab page](./screenshots/generatePaperTab.png)
+![Generate Paper Tab page](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/generatePaperTab.PNG)
 
 **Search Manager**
-![search](./screenshots/search.png)
+![search](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/search.PNG)
 
 **PDF OF PAPER GENERTAED**
 ![Pdf of paper generated ](https://github.com/kanchitbajaj8070/QuestionBankSystem/blob/master/screenshots/pdfOfPaper.PNG)
